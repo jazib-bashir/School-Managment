@@ -51,7 +51,7 @@ public class TeacherBean implements java.io.Serializable{
   private String oldPassword;
   private String newPassword;
   private String confirmPassword;
-  private boolean active;
+  private boolean active=true;
   private int userId;
 
   /**

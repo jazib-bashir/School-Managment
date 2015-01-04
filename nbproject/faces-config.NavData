@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><Scene Scope="Project" version="2">
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
     <Scope Scope="Faces Configuration Only"/>
     <Scope Scope="Project">
         <Node id="admin/marks.xhtml" x="1150" y="450" zoom="true"/>
@@ -8,9 +9,9 @@
         <Node id="admin/registration.xhtml" x="1650" y="150" zoom="true"/>
         <Node id="teacher/teacherTemplate.xhtml" x="150" y="300" zoom="true"/>
         <Node id="admin/group.xhtml" x="900" y="600" zoom="true"/>
-        <Node id="myTemplate.xhtml" x="400" y="900" zoom="true"/>
         <Node id="admin/adminPanel.xhtml" x="400" y="150" zoom="true"/>
         <Node id="public/publicNotice.xhtml" x="1650" y="300" zoom="true"/>
+        <Node id="myTemplate.xhtml" x="400" y="900" zoom="true"/>
         <Node id="admin/updateTeacherInfo.xhtml" x="900" y="750" zoom="true"/>
         <Node id="student/myResult.xhtml" x="2400" y="150" zoom="true"/>
         <Node id="admin/teacherSubjectAssign.xhtml" x="1150" y="300" zoom="true"/>
@@ -29,8 +30,8 @@
         <Node id="public/publicTemplate.xhtml" x="650" y="300" zoom="true"/>
         <Node id="admin/classRoutine.xhtml" x="650" y="450" zoom="true"/>
         <Node id="admin/*" x="650" y="900" zoom="true"/>
-        <Node id="admin/teacherRegistration.xhtml" x="1400" y="450" zoom="true"/>
         <Node id="teacher/teacherProfileUpdate.xhtml" x="1150" y="750" zoom="true"/>
+        <Node id="admin/teacherRegistration.xhtml" x="1400" y="450" zoom="true"/>
         <Node id="teacher/addmarks.xhtml" x="400" y="1050" zoom="true"/>
         <Node id="teacher/*" x="1650" y="450" zoom="true"/>
         <Node id="student/studentProfileUpdate.xhtml" x="900" y="900" zoom="true"/>
